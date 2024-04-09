@@ -60,7 +60,7 @@ const ImageCompressor = () => {
             minHeight: '100vh', 
         }}>
                 <div className='title-font p-2 mb-0 text-center'>
-                    <h1>rEaseSize.com</h1>
+                    <h1>reasizer.com</h1>
                 </div>
                 
               
